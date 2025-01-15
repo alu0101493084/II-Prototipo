@@ -9,10 +9,11 @@ usando un dispositivo externo que permita simular la interacción táctil (ej: u
 - Sonidos
 
 ## Aspectos a Destacar
+Se buscó y contó con usuarios que realizaron la tarea de Beta testers.
 
 
 ## Sensores
-
+Se quiso implementar un acertijo que usase la brújula pero debido a incompatibilidades incoherentes de unity con el Input nuevo y el antiguo no se pudo hacer.
 
 ## Ejecución
 
