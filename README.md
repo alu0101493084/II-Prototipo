@@ -12,9 +12,9 @@ usando un dispositivo externo que permita simular la interacción táctil (ej: u
 - Raycast Interactor: Creamos nuestra propia retícula que interactúa con diversos objetos durante el juego.
 
 ## Aspectos a Destacar
-Se buscó y contó con usuarios que realizaron la tarea de Beta testers.
-La idea ha ido evolucionando drásticamente durante el proceso de creación. La idea inicial es muy diferente a el prototipo terminado.
-Pese a no contar con material específico hemos podido asegurar que la aplicación se ejecute con y sin dispositivos VR.
+- Se buscó y contó con usuarios que realizaron la tarea de Beta testers.
+- La idea ha ido evolucionando drásticamente durante el proceso de creación. La idea inicial es muy diferente a el prototipo terminado.
+- Pese a no contar con material específico hemos podido asegurar que la aplicación se ejecute con y sin dispositivos VR.
 
 ## Sensores
 Se quiso implementar un acertijo que usase la brújula pero debido a incompatibilidades incoherentes de unity con el Input nuevo y el antiguo no se pudo hacer.
