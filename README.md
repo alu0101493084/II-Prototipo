@@ -29,3 +29,5 @@ realización de las tareas auxiliares necesarias.
 
 APK: https://drive.google.com/file/d/1Kfz8lSOZ_9ban9CEsLu7SUnk4G-WJUqt/view?usp=sharing  
 Paquete: https://drive.google.com/file/d/1CaLByGMSN_Xq4hMKY9LTywVP0r5HeAbu/view?usp=sharing
+
+GIF: https://drive.google.com/file/d/1Vqe4vSKv90dkXNaQfroP3UG36VLn9Ic0/view?usp=sharing
