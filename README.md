@@ -5,8 +5,11 @@ por parte del usuario tocando la pantalla o de forma complementaria (si se utili
 usando un dispositivo externo que permita simular la interacción táctil (ej: un ratón conectado al móvil).
 
 ## Hitos
-- Movimiento basado en físicas.
+- Movimiento basado en físicas
 - Sonidos
+- Eventos
+- Cardboard XR
+- Raycast Interactor
 
 ## Aspectos a Destacar
 Se buscó y contó con usuarios que realizaron la tarea de Beta testers.
