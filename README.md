@@ -23,3 +23,6 @@ Se ha optado en todo momento por un trabajo común y equitativamente repartido.
 Si una tarea individual era requerida, se compartía el proceso y se contaba con el apoyo del resto del equipo para realizarla.
 Principalmente trabajamos todos a la vez, Elías ha destacado por el desarrollo del código. Néstor y Diego han destacado en la
 realización de las tareas auxiliares necesarias.
+
+APK: https://drive.google.com/file/d/1Kfz8lSOZ_9ban9CEsLu7SUnk4G-WJUqt/view?usp=sharing
+Paquete: https://drive.google.com/file/d/1CaLByGMSN_Xq4hMKY9LTywVP0r5HeAbu/view?usp=sharing
