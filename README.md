@@ -5,7 +5,8 @@ por parte del usuario tocando la pantalla o de forma complementaria (si se utili
 usando un dispositivo externo que permita simular la interacción táctil (ej: un ratón conectado al móvil).
 
 ## Hitos
-
+- Movimiento basado en físicas.
+- Sonidos
 
 ## Aspectos a Destacar
 
